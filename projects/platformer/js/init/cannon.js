@@ -28,7 +28,8 @@
     createCannon(type, position, delay)
     // example:
     createCannon("top", 450);
-
+    createCannon("right", 300, 1000)
+    createCannon("left", 300, 1000)
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////
   }
